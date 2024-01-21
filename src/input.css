@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply text-3xl font-bold bg-blue-700 lg:text-7xl;
+}
